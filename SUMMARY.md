@@ -5,4 +5,4 @@
 
 ## test
 
-- [bechmark](test/bechmark.md)
+- [bechmark](test/benchmark.md)
